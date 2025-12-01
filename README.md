@@ -1,110 +1,137 @@
-
-
-<!-- Neon Banner -->
+<!-- Hacker Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Aaditya+K+C;Cybersecurity+%7C+Networking+%7C+GRC+Enthusiast;BSc+International+Information+Systems+%40+TH+Augsburg;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=%3E+Aaditya+K+C+%7C+Cybersecurity+%26+Networking;Access+Granted...;Initializing+Profile...;Loading+Skills...;Building+Future+in+GRC%2C+SOC%2C+Networks" />
 </p>
 
-<!-- Hacker Style Divider -->
-<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="600"></p>
+<!-- Glitch Divider -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="600">
+</p>
 
 ---
 
-# 🧑‍💻 **About Me**
-<p align="center">
-  <img src="https://i.imgur.com/8fK4h6j.gif" width="250"/>
-</p>
+# 👨‍💻 About Me
 
-Hi, I'm **Aaditya**, a passionate **Cybersecurity & Network Engineering** enthusiast from **Nepal**,  
-currently pursuing **International Information Systems** in Germany 🇩🇪.
+I'm **Aaditya**, a cybersecurity & networking student from **Nepal**, currently studying  
+**B.Sc. International Information Systems @ TH Augsburg 🇩🇪**.
 
-⚡ I specialize in building secure networks, firewalls, packet tracer designs  
-🛡️ I enjoy breaking & securing systems (ethical way 😄)  
-📡 Networking is my backbone — cybersecurity is my passion  
+I love building,
+- 🔐 Secure networks  
+- 📡 Firewall setups  
+- 🧪 Cybersecurity labs  
+- 🧠 SOC & GRC knowledge  
+- 🧷 Packet Tracer + ASA + Linux projects  
 
-### ⭐ What I Do
-- 🔐 Cybersecurity research & labs  
-- 🌐 Enterprise network design  
-- 🧱 Cisco ASA, VLANs, OSPF, ACLs  
-- 📊 Python-based security tools  
-- 🧠 Learning: Java OOP, R, Linux, SOC operations  
-
-### 📩 Contact  
-**Email:** kc.aaditya199@outlook.com  
+💬 *“Break it. Secure it. Learn it.”* — My style.
 
 ---
 
-# ⚡ **Tech Stack**
+# ⚡ Skills & Technologies
 
-### 🔥 Languages  
+## 🖥️ Programming & Scripting  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r,html,css&theme=dark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java,python,r,bash&theme=dark" height="50"/>
 </p>
 
-### 🔥 Cybersecurity & Networking  
+---
+
+## 🌐 Networking  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,redhat,docker,git,github&theme=dark" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cisco,linux&theme=dark" height="50"/>
 </p>
 
+- VLANs, OSPF, ACLs  
+- NTP, DHCP, Subnetting  
 - Cisco Packet Tracer  
 - ASA Firewall (NAT, ACL, Logging)  
-- Wireshark, Nmap, Burp Suite  
-- VLAN, OSPF, NTP, DHCP, Subnetting  
-- SOC basics, ISO 27001, GRC fundamentals  
 
 ---
 
-# 🚀 **Featured Projects**
+## 🔐 Cybersecurity  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kali,wireshark,redhat&theme=dark" height="50"/>
+</p>
 
-## 🔺 **Three-Tier Enterprise Network Architecture**
-📌 Cisco packet tracer  
+- SOC Basics  
+- ISO 27001  
+- Cryptography  
+- Wireshark  
+- Nmap, Burp, Linux  
+
+---
+
+## ⚙️ Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux&theme=dark" height="50"/>
+</p>
+
+---
+
+# 🧩 Featured Projects
+
+## 🔺 Three-Tier Enterprise Network Architecture  
 ✔ VLAN  
 ✔ OSPF  
-✔ ACLs  
+✔ ACL  
 ✔ NTP  
-✔ ASA firewall integration  
+✔ Firewall Integration  
+✔ Real enterprise-style topology  
 
 ---
 
-## 🔥 **Cisco ASA Firewall Project**
-✔ Static & dynamic NAT  
-✔ Security levels  
+## 🔥 Cisco ASA Firewall Configuration  
+✔ Static & Dynamic NAT  
 ✔ ACLs  
-✔ DMZ  
-✔ Basic firewall hardening  
+✔ DMZ Setup  
+✔ Logging  
+✔ Security Levels  
 
 ---
 
-## 🌲 **Forest-Fire Prediction (AI Hackathon)**
-- Used combined datasets  
-- ML-based risk prediction  
+## 🌲 Forest-Fire Prediction (Hackathon)  
+✔ Multiple data sources  
+✔ ML-based fire risk detection  
+✔ Team project  
 
 ---
 
-# 📊 GitHub Analytics
+# 🏅 Certifications
+
+- ISO/IEC 27001:2022 **Lead Auditor**
+- Google **Professional Cybersecurity Certificate**
+- CCNA Subnetting/VLSM Course
+- CyberWarfare Labs – **Cybersecurity Analyst**
+
+---
+
+# 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AadityaKC&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AadityaKC&theme=tokyonight&hide_border=false" height="200"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadityaKC&show_icons=true&theme=tokyonight" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AadityaKC&show_icons=true&theme=tokyonight&hide_border=false" height="190"/>
 </p>
 
 ---
 
-# 🌐 **Connect With Me**
+# 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="55"></a>
-  <a href="mailto:kc.aaditya199@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"></a>
-  <a href="https://github.com/AadityaKC"><img src="https://skillicons.dev/icons?i=github" height="55"></a>
+  <a href="YOUR LINKEDIN URL"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
+  <a href="mailto:yourname@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
+  <a href="https://github.com/AadityaKC"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
 </p>
 
 ---
 
-<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="500"></p>
-<p align="center">💙 Thank you for visiting my profile!</p>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="500">
+</p>
+
+<p align="center">💚 Thanks for checking out my profile!</p>
+
 
 
 
