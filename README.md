@@ -9,7 +9,7 @@
 ### 🟩 Networking & Cybersecurity Researcher
 
 💡 Passionate about **enterprise networks, firewalls, routing, switching, and security**.  
-🔧 Currently learning: **CCNA, ASA Firewall, VLANs,BGP OSPF, EIGRP, NAT, ACLs**  
+🔧 Currently learning: **CCNA, ASA Firewall, VLANs, RIP, OSPF, EIGRP, BGP, IS-IS, NAT, ACLs** 
 🎯 Goal: Become a **Network Engineer & Security Specialist**
 
 ---
@@ -20,13 +20,13 @@
 VLANs • STP • PPP • DHCP • NAT • Port Security
 
 ### 🔹 Routing
-OSPF • EIGRP • BGP (Basics)
+OSPF • EIGRP • BGP 
 
 ### 🔹 Firewalls
 Cisco ASA • ACLs • VPN
 
 ### 🔹 Cybersecurity
-Basic Blue Team • Linux Hardening
+Basic Blue Team • Linux Fundementals
 
 ### 🔹 Tools
 Cisco Packet Tracer • GNS3 • Wireshark
@@ -36,7 +36,7 @@ Cisco Packet Tracer • GNS3 • Wireshark
 ## 🟩 Featured Projects  
 
 ### 🔹 Three-Tier Enterprise Network Design  
-Enterprise-level design using VLANs, OSPF, ACLs, DHCP, and network segmentation.
+Enterprise-level design using VLANs, OSPF, ACLs, DHCP,  and network segmentation.
 
 ### 🔹 Cisco ASA Firewall Configuration  
 Configured ASA with NAT, ACLs, DMZ logic, and basic monitoring.
