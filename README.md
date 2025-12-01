@@ -9,9 +9,9 @@
 # Hi, I'm Pranjal Panta 👋  
 ### Networking & Cybersecurity Researcher 
 
-💡 Passionate about enterprise networks, firewalls, routing, switching, and security.  
-🔧 Currently learning: CCNA, ASA Firewall, VLANs, OSPF, EIGRP, NAT, ACLs  
-🎯 Goal: Become a Network Engineer & Security Specialist  
+💡 **Dedicated to enterprise networking and security engineering** 
+🔧 **Currently learning: **CCNA, ASA Firewall, Routing and Switching**  
+🎯 **Goal: Become a Network Engineer & Security Specialist** 
 
 ---
 
@@ -28,7 +28,7 @@
 🔹 *Three-Tier Enterprise Network Design*  
 🔹 *Cisco ASA Firewall Configuration*  
 🔹 *Secure File Tool (Python)*  
-🔹 *WEB EMUMERATION TOOL (Python)
+🔹 *WEB EMUMERATION TOOL (Python)*
 
 
 ### 🔵 Connect With Me
