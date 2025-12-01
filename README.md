@@ -1,72 +1,122 @@
-┌──────────────────────────────────────────────────────────┐
-│  ╔═╗┌─┐┌─┐┬─┐┌─┐┬─┐   ╦╔═┬ ┬┬ ┬┌─┐┬ ┬┌─┐┌─┐┬─┐          │
-│  ║ ║│ ┬├─┤├┬┘├┤ ├┬┘   ╠╩╗└┬┘│ │└─┐├─┤├─┤├┤ ├┬┘          │
-│  ╚═╝└─┘┴ ┴┴└─└─┘┴└─   ╩ ╩ ┴ ┴ ┴└─┘┴ ┴┴ ┴└─┘┴└─          │
-│                                                          │
-│  > root@pranjal:~# whoami                                │
-│  Pranjal Panta – Cybersecurity & Network Warfare Engineer│
-│  Nepal 🇳🇵 | Softwarica College (Coventry University, UK)  │
-└──────────────────────────────────────────────────────────┘
+# 👋 Hi, I'm Pranjal Panta  
+### 🧪 Cybersecurity & Networking Researcher 
 
-╔══════════════════════════════════════════════════════════╗
-║  🔴 TARGET ACQUIRED: Secure. Defend. Penetrate. Repeat.   ║
-╚══════════════════════════════════════════════════════════╝
+I’m a student from **Nepal**, currently studying at **Softwarica College (affiliated with Coventry University, UK)**.  
+My major interest lies in **Computer Networking, Cyber Defense, and IT Infrastructure**.
 
-╭─🛡️ EXPERTISE───────────────────────────────────────────╮
-│  • Network Intrusion Detection & Prevention               │
-│  • Enterprise Network Architecture (Three-Tier)           │
-│  • Advanced Routing: OSPF (Multi-Area) | EIGRP | BGP       │
-│  • Firewall Engineering – Cisco ASA / Linux IPTables      │
-│  • Blue Team Operations & SOC Monitoring                  │
-│  • Secure Automation – Python (Cryptography & Recon)      │
-│  • Linux Hardening | Secure Network Design | DMZ Mastery   │
-│  • Ethical Hacking Fundamentals & Web Enumeration         │
-╰───────────────────────────────────────────────────────────╯
+I enjoy designing enterprise networks, exploring routing & switching protocols, researching cybersecurity techniques,  
+and understanding how secure and scalable systems are built in real-world environments.
 
-╭─⚙️  ARSENAL────────────────────────────────────────────╮
-│  Cisco Packet Tracer │ GNS3 │ Wireshark │ Nmap            │
-│  Python (Cryptography, Scapy, Requests)                  │
-│  Kali │ Ubuntu │ Git │ VS Code │ Burp Suite (learning)   │
-╰───────────────────────────────────────────────────────────╯
+---
 
-╭─🔥 FEATURED EXPLOITS (a.k.a Projects)────────────────────╮
-│  > Three-Tier Enterprise Fortress                         │
-│    ├─ VLAN Segmentation + Inter-VLAN Routing              │
-│    ├─ OSPF + iBGP Peering                                 │
-│    ├─ ACLs, Zone-Based Policy Firewall                    │
-│    └─ High Availability & Redundancy                      │
-│                                                           │
-│  > Cisco ASA Killswitch Configuration                     │
-│    ├─ NAT/PAT │ Security Levels │ DMZ │ MPF              │
-│                                                           │
-│  > PhantomCipher – AES-256 File Encryption Tool (Python)  │
-│  > ShadowEnum – Custom Recon & Web Enumeration Tool       │
-╰───────────────────────────────────────────────────────────╯
+## 🛡️ Areas of Interest  
+- Network Security  
+- Routing & Switching  
+- Firewall Configuration  
+- Secure Network Design  
+- Python Security Automation  
+- Pen-Test Basics  
+- Linux Hardening  
 
-╭─🎯 MISSION OBJECTIVE────────────────────────────────────╮
-│  Become a Network Security Engineer | Cybersecurity      │
-│  Researcher specialized in:                               │
-│    • Secure Network Architecture                          │
-│    • Threat Hunting & Defense Strategies                  │
-│    • Firewall / IDS/IPS Administration                    │
-│    • Vulnerability Research & Mitigation                 │
-╰───────────────────────────────────────────────────────────╯
+---
 
-╭─📡 CONNECT / RECON──────────────────────────────────────╮
-│  > LinkedIn  : https://www.linkedin.com/in/pranjal-p-49ab59293/ │
-│  > GitHub    : https://github.com/pranjalpanta              │
-│  > Email     : pranjalpantalazarus2@gmail.com               │
-│  > Medium    : https://medium.com/@pranjalpanta2.0          │
-╰───────────────────────────────────────────────────────────╯
+## ⚙️ Skills & Technologies  
 
-┌─[ Status: ONLINE ]─[ Access: Granted ]───────────────────┐
-│  Ready for collaboration, bug bounties, CTFs,            │
-│  research, or just some terminal talk.                    │
-│  Ping me. Let’s secure something… or break it ethically. │
-└──────────────────────────────────────────────────────────┘
+### **🔹 Networking Fundamentals**
+- VLANs, STP, DHCP, NAT, Port Security  
+- VPN (Basics), ACLs  
+- Subnetting, VLSM  
+- Network Design Principles  
 
-# whois pranjalpanta
-→ Ethical Hacker | Network Defender | Automation Scripter | Future Red/Blue Teamer
+### **🔹 Routing Protocols**
+- **OSPF** 
+- **EIGRP**  
+- **RIP**  
+- **BGP** 
+
+### **🔹 Firewall & Security**
+- Cisco ASA Firewall  
+- ACLs & NAT  
+- DMZ Design  
+- Linux Hardening  
+- SOC Monitoring (Basic)  
+- Secure Configurations  
+
+### **🔹 Tools & Platforms**
+- Cisco Packet Tracer  
+- GNS3  
+- Wireshark  
+- Python (automation scripts)  
+- Git & GitHub  
+- VS Code  
+- Linux (Ubuntu/Kali)  
+
+---
+
+## 📂 Featured Projects  
+
+### 🔹 **Three-Tier Enterprise Network Design**
+A full enterprise-level network including:  
+- VLAN segmentation  
+- OSPF + BGP routing  
+- ACL-based access control  
+- DHCP, NTP, Syslog  
+- High-availability and scalability approach  
+
+---
+
+### 🔹 **Cisco ASA Firewall Configuration**
+Configured Cisco ASA with:  
+- Static & Dynamic NAT  
+- Security-level segmentation  
+- DMZ setup  
+- ACLs for inbound/outbound control  
+- Basic monitoring & logging  
+
+---
+
+### 🔹 **Secure File Encryption Tool (Python)**
+A Python-based tool that:  
+- Encrypts files using cryptographic standards  
+- Generates secure keys from passwords  
+- Allows safe decryption  
+
+---
+
+### 🔹 **Web Enumeration Tool (Python)**
+A lightweight recon tool that performs:  
+- Port scanning  
+- Header grabbing  
+- Subdomain lookup  
+- Basic recon operations  
+
+---
+
+## 🎯 Career Objective  
+To become a **Network  Engineer / Researcher**, specializing in:  
+- Network architecture  
+- Security design  
+- Firewall administration  
+- SOC operations  
+- Vulnerability identification  
+- Cyber defense strategies  
+
+My goal is to contribute to creating **secure, scalable, and reliable network environments**.
+
+---
+
+## 📫 Connect With Me  
+
+- **LinkedIn:** https://www.linkedin.com/in/pranjal-p-49ab59293/  
+- **Email:** pranjalpantalazarus2@gmail.com  
+- **GitHub:** https://github.com/pranjalpanta  
+- **Medium:** https://medium.com/@pranjalpanta2.0  
+
+---
+
+Thank you for visiting my profile!  
+
+
 
 
 
