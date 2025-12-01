@@ -1,11 +1,20 @@
-# 👋 Hi, I'm Pranjal Panta  
-### 🧪 Cybersecurity & Networking Researcher 
+<!-- PROFESSIONAL CYBERSECURITY HEADER -->
+<h1 align="center">👋 Hi, I'm <span style="color:#2ECC71">Pranjal Panta</span></h1>
+<h3 align="center">Cybersecurity & Networking Researcher | Network Engineering Enthusiast</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Softwarica_College-Coventry_University-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Field-Cybersecurity%20%7C%20Networking-2ECC71?style=for-the-badge">
+</p>
+
+---
+
+## 🧭 About Me  
 I’m a student from **Nepal**, currently studying at **Softwarica College (affiliated with Coventry University, UK)**.  
-My major interest lies in **Computer Networking, Cyber Defense, and IT Infrastructure**.
+My focus is on **Computer Networking, Cyber Defense, and IT Infrastructure**.
 
-I enjoy designing enterprise networks, exploring routing & switching protocols, researching cybersecurity techniques,  
-and understanding how secure and scalable systems are built in real-world environments.
+I love designing secure networks, exploring routing & switching protocols,  
+and learning how enterprise systems maintain scalability, availability, and protection.
 
 ---
 
@@ -14,99 +23,98 @@ and understanding how secure and scalable systems are built in real-world enviro
 - Routing & Switching  
 - Firewall Configuration  
 - Secure Network Design  
-- Python Security Automation  
-- Pen-Test Basics  
 - Linux Hardening  
+- Python Security Scripting  
+- Pen-Test Fundamentals  
 
 ---
 
 ## ⚙️ Skills & Technologies  
 
-### **🔹 Networking Fundamentals**
+### 🔹 Networking  
 - VLANs, STP, DHCP, NAT, Port Security  
 - VPN (Basics), ACLs  
 - Subnetting, VLSM  
-- Network Design Principles  
+- Enterprise Network Design  
 
-### **🔹 Routing Protocols**
-- **OSPF** 
+### 🔹 Routing  
+- **OSPF**  
 - **EIGRP**  
 - **RIP**  
-- **BGP** 
+- **BGP**  
 
-### **🔹 Firewall & Security**
+### 🔹 Security & Firewall  
 - Cisco ASA Firewall  
-- ACLs & NAT  
-- DMZ Design  
-- Linux Hardening  
+- ACLs, NAT, DMZ  
 - SOC Monitoring (Basic)  
-- Secure Configurations  
+- Linux Hardening  
+- Secure Configuration Standards  
 
-### **🔹 Tools & Platforms**
+### 🔹 Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cisco,linux,kali,python,wireshark,gnubash,git,github,vscode&theme=dark" height="45" />
+</p>
+
 - Cisco Packet Tracer  
 - GNS3  
 - Wireshark  
 - Python (automation scripts)  
 - Git & GitHub  
 - VS Code  
-- Linux (Ubuntu/Kali)  
+- Linux (Ubuntu / Kali)  
 
 ---
 
 ## 📂 Featured Projects  
 
-### 🔹 **Three-Tier Enterprise Network Design**
-A full enterprise-level network including:  
+### 🔹 Three-Tier Enterprise Network Design  
+A complete enterprise topology with:  
 - VLAN segmentation  
-- OSPF + BGP routing  
-- ACL-based access control  
+- OSPF + BGP  
+- ACL-based filtering  
 - DHCP, NTP, Syslog  
-- High-availability and scalability approach  
+- Scalable & multi-layered architecture  
 
 ---
 
-### 🔹 **Cisco ASA Firewall Configuration**
-Configured Cisco ASA with:  
+### 🔹 Cisco ASA Firewall Configuration  
+Configured Cisco ASA featuring:  
 - Static & Dynamic NAT  
-- Security-level segmentation  
-- DMZ setup  
+- DMZ configuration  
+- Security levels  
 - ACLs for inbound/outbound control  
-- Basic monitoring & logging  
+- Basic firewall logging  
 
 ---
 
-### 🔹 **Secure File Encryption Tool (Python)**
-A Python-based tool that:  
-- Encrypts files using cryptographic standards  
-- Generates secure keys from passwords  
-- Allows safe decryption  
+### 🔹 Secure File Encryption Tool (Python)  
+- AES-based encryption system  
+- Password-derived keys  
+- Secure file encryption & decryption  
 
 ---
 
-### 🔹 **Web Enumeration Tool (Python)**
-A lightweight recon tool that performs:  
+### 🔹 Web Enumeration Tool (Python)  
 - Port scanning  
 - Header grabbing  
 - Subdomain lookup  
-- Basic recon operations  
+- Lightweight reconnaissance  
 
 ---
 
 ## 🎯 Career Objective  
-To become a **Network  Engineer / Researcher**, specializing in:  
-- Network architecture  
-- Security design  
+To become a **Network Engineer / Cybersecurity Researcher**, specializing in:  
+- Network & security architecture  
 - Firewall administration  
 - SOC operations  
-- Vulnerability identification  
-- Cyber defense strategies  
+- Secure infrastructure design  
+- Vulnerability identification & defense  
 
-My goal is to contribute to creating **secure, scalable, and reliable network environments**.
+I aim to help build **secure, stable, and scalable network systems**.
 
 ---
 
 ## 📫 Connect With Me  
-
 - **LinkedIn:** https://www.linkedin.com/in/pranjal-p-49ab59293/  
 - **Email:** pranjalpantalazarus2@gmail.com  
 - **GitHub:** https://github.com/pranjalpanta  
@@ -114,7 +122,8 @@ My goal is to contribute to creating **secure, scalable, and reliable network en
 
 ---
 
-Thank you for visiting my profile!  
+<h3 align="center">✨ Thank you for visiting my profile!</h3>
+
 
 
 
