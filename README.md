@@ -1,7 +1,8 @@
 <!-- HACKER HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=%24;Profile+Loaded...">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=𝗣𝗿𝗼𝗳𝗶𝗹𝗲+𝗟𝗼𝗮𝗱𝗲𝗱...">
 </p>
+
 
 ---
 
