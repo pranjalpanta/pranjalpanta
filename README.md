@@ -13,6 +13,6 @@ I’m a passionate and dedicated Networking and Cybersecurity student with a str
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalpanta&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pranjalpanta&icon=0&color=0)](https://visitcount.itsvg.in
+[![](https://visitcount.itsvg.in/api?id=pranjalpanta&icon=0&color=0)]
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
