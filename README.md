@@ -6,36 +6,36 @@
 
 ---
 
-# Hi, I'm Pranjal Panta 👋  
-### Networking & Cybersecurity Researcher 
+# Hi, I'm Pranjal Panta 👋**
+### Networking & Cybersecurity Researcher**
 
 💡 **Dedicated to enterprise networking and security engineering** 
-🔧 **Currently learning: **CCNA, ASA Firewall, Routing and Switching**  
+🔧 **Currently learning: CCNA, ASA Firewall, Routing and Switching**
 🎯 **Goal: Become a Network Engineer & Security Specialist** 
 
 ---
 
 ### 🛠 Skills & Tools  
-- *Networking:* VLANs, STP, SVI, DHCP, NAT, Port Security  
-- *Routing:* RIP, OSPF, EIGRP, BGP, IS-IS  
-- *Firewalls:* Cisco ASA, ACLs, VPN  
-- *Cybersecurity:**Network Foriences, Linux Fundamentals, Operating System, Pratical Penstesting, Basic Web Application Security**
-- *Tools:* Cisco Packet Tracer, GNS3, Wireshark
+- **Networking: VLANs, STP, SVI, DHCP, NAT, Port Security** 
+- **Routing: RIP, OSPF, EIGRP, BGP, IS-IS** 
+- **Firewalls:Cisco ASA, ACLs, VPN** 
+- **Cybersecurity:Network Foriences, Linux Fundamentals, Operating System, Pratical Penstesting, Basic Web Application Security**
+- **Tools: Cisco Packet Tracer, GNS3, Wireshark**
 
 ---
 
 ### 📂 Featured Projects  
-🔹 *Three-Tier Enterprise Network Design*  
-🔹 *Cisco ASA Firewall Configuration*  
-🔹 *Secure File Tool (Python)*  
-🔹 *WEB EMUMERATION TOOL (Python)*
+🔹 **Three-Tier Enterprise Network Design** 
+🔹 **Cisco ASA Firewall Configuration**  
+🔹 **Secure File Tool (Python)**  
+🔹 **WEB EMUMERATION TOOL (Python)**
 
 
 ### 🔵 Connect With Me
-- **LinkedIn:** https://www.linkedin.com/in/pranjal-p-49ab59293/  
-- **Email:** pranjalpantalazarus2@gmail.com  
-- **GitHub:** https://github.com/pranjalpanta  
-- **Medium:** https://medium.com/@pranjalpanta2.0
+- **LinkedIn: https://www.linkedin.com/in/pranjal-p-49ab59293/** 
+- **Email: pranjalpantalazarus2@gmail.com**
+- **GitHub: https://github.com/pranjalpanta** 
+- **Medium: https://medium.com/@pranjalpanta2.0**
 
 ---
 
