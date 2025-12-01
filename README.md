@@ -12,7 +12,9 @@
 ### Networking & Cybersecurity Researcher
 
 💡 **Dedicated to enterprise networking and security engineering** 
+
 🔧 **Currently learning: CCNA, ASA Firewall, Routing and Switching**
+
 🎯 **Goal: Become a Network Engineer & Security Specialist** 
 
 
@@ -30,8 +32,11 @@
 
 ### 📂 Featured Projects  
 🔹 **Three-Tier Enterprise Network Design** 
-🔹 **Cisco ASA Firewall Configuration**  
+
+🔹 **Cisco ASA Firewall Configuration** 
+
 🔹 **Secure File Tool (Python)**  
+
 🔹 **WEB EMUMERATION TOOL (Python)**
 
 ---
