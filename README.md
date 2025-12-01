@@ -7,6 +7,7 @@
 ---
 
 # Hi, I'm Pranjal Panta 👋
+
 ### Networking & Cybersecurity Researcher
 
 💡 **Dedicated to enterprise networking and security engineering** 
