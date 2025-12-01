@@ -58,7 +58,7 @@ Lightweight tool for port scanning, header grabbing, and subdomain enumeration.
 
 
 <p align="center">
-  <b style="color:#00FF41;">✔ System Exit:</b> Profile Loaded Successfully.
+  <b style="color:#00FF41;"></b> Profile Loaded Successfully.
 </p>
 
 
