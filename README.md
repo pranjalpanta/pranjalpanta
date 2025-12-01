@@ -1,136 +1,78 @@
-<!-- Hacker Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF9F&center=true&vCenter=true&width=700&lines=%3E+Aaditya+K+C+%7C+Cybersecurity+%26+Networking;Access+Granted...;Initializing+Profile...;Loading+Skills...;Building+Future+in+GRC%2C+SOC%2C+Networks" />
-</p>
+# Hi, I'm Pranjal Panta 👋  
+### Networking & Cybersecurity Enthusiast  
 
-<!-- Glitch Divider -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="600">
-</p>
+I am a student from Nepal studying at **Softwarica College (in collaboration with Coventry University, UK)**.  
+I have a strong interest in **Computer Networking, IT Infrastructure, and Cybersecurity**.  
+I enjoy building enterprise network topologies, working with routers, switches, firewalls,  
+and learning how secure networks operate.
 
 ---
 
-# 👨‍💻 About Me
+## 🛠️ Skills & Technologies
 
-I'm **Aaditya**, a cybersecurity & networking student from **Nepal**, currently studying  
-**B.Sc. International Information Systems @ TH Augsburg 🇩🇪**.
+### **Networking**
+- VLANs, STP, PPP, DHCP, NAT  
+- Port Security  
+- Subnetting & VLSM  
+- Cisco Routing & Switching
 
-I love building,
-- 🔐 Secure networks  
-- 📡 Firewall setups  
-- 🧪 Cybersecurity labs  
-- 🧠 SOC & GRC knowledge  
-- 🧷 Packet Tracer + ASA + Linux projects  
+### **Routing**
+- OSPF  
+- EIGRP  
+- Basics of BGP  
 
-💬 *“Break it. Secure it. Learn it.”* — My style.
+### **Firewall & Security**
+- Cisco ASA Firewall  
+- ACLs  
+- VPN (Basics)  
+- Basic Blue Team concepts  
+- Linux (Basics & Hardening)
 
----
-
-# ⚡ Skills & Technologies
-
-## 🖥️ Programming & Scripting  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,r,bash&theme=dark" height="50"/>
-</p>
-
----
-
-## 🌐 Networking  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco,linux&theme=dark" height="50"/>
-</p>
-
-- VLANs, OSPF, ACLs  
-- NTP, DHCP, Subnetting  
+### **Tools**
 - Cisco Packet Tracer  
-- ASA Firewall (NAT, ACL, Logging)  
-
----
-
-## 🔐 Cybersecurity  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,wireshark,redhat&theme=dark" height="50"/>
-</p>
-
-- SOC Basics  
-- ISO 27001  
-- Cryptography  
+- GNS3  
 - Wireshark  
-- Nmap, Burp, Linux  
+- Python (basic scripting)  
+- Git & GitHub  
+- Visual Studio Code  
 
 ---
 
-## ⚙️ Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux&theme=dark" height="50"/>
-</p>
+## 📂 Featured Projects
+
+### **🔹 Three-Tier Enterprise Network Design**
+Designed an enterprise-style topology using  
+**VLANs, OSPF, ACLs, DHCP, NTP, and Syslog**.
+
+### **🔹 Cisco ASA Firewall Configuration**
+Configured security levels, NAT, ACLs, DMZ, and basic logging.
+
+### **🔹 Secure File Tool (Python)**
+Python tool for encrypting and decrypting files.
+
+### **🔹 Web Enumeration Tool (Python)**
+Simple tool for port scanning, header grabbing, and basic web recon.
 
 ---
 
-# 🧩 Featured Projects
-
-## 🔺 Three-Tier Enterprise Network Architecture  
-✔ VLAN  
-✔ OSPF  
-✔ ACL  
-✔ NTP  
-✔ Firewall Integration  
-✔ Real enterprise-style topology  
+## 🎯 Career Goal
+To become a **Network Engineer and Security Specialist**  
+with strong knowledge of routing, switching, and cybersecurity defense.
 
 ---
 
-## 🔥 Cisco ASA Firewall Configuration  
-✔ Static & Dynamic NAT  
-✔ ACLs  
-✔ DMZ Setup  
-✔ Logging  
-✔ Security Levels  
+## 📫 Contact  
+- **LinkedIn:** YOUR_LINKEDIN_URL  
+- **Email:** YOUR_EMAIL  
+- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
 
 ---
 
-## 🌲 Forest-Fire Prediction (Hackathon)  
-✔ Multiple data sources  
-✔ ML-based fire risk detection  
-✔ Team project  
+Thanks for visiting my profile!
 
----
 
-# 🏅 Certifications
 
-- ISO/IEC 27001:2022 **Lead Auditor**
-- Google **Professional Cybersecurity Certificate**
-- CCNA Subnetting/VLSM Course
-- CyberWarfare Labs – **Cybersecurity Analyst**
 
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AadityaKC&theme=tokyonight&hide_border=false" height="200"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AadityaKC&show_icons=true&theme=tokyonight&hide_border=false" height="190"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="YOUR LINKEDIN URL"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  <a href="mailto:yourname@example.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
-  <a href="https://github.com/AadityaKC"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="500">
-</p>
-
-<p align="center">💚 Thanks for checking out my profile!</p>
 
 
 
