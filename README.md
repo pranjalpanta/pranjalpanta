@@ -1,74 +1,72 @@
-# Hi, I'm Pranjal Panta 👋  
-### Networking & Cybersecurity Enthusiast  
+┌──────────────────────────────────────────────────────────┐
+│  ╔═╗┌─┐┌─┐┬─┐┌─┐┬─┐   ╦╔═┬ ┬┬ ┬┌─┐┬ ┬┌─┐┌─┐┬─┐          │
+│  ║ ║│ ┬├─┤├┬┘├┤ ├┬┘   ╠╩╗└┬┘│ │└─┐├─┤├─┤├┤ ├┬┘          │
+│  ╚═╝└─┘┴ ┴┴└─└─┘┴└─   ╩ ╩ ┴ ┴ ┴└─┘┴ ┴┴ ┴└─┘┴└─          │
+│                                                          │
+│  > root@pranjal:~# whoami                                │
+│  Pranjal Panta – Cybersecurity & Network Warfare Engineer│
+│  Nepal 🇳🇵 | Softwarica College (Coventry University, UK)  │
+└──────────────────────────────────────────────────────────┘
 
-I am a student from Nepal studying at **Softwarica College (in collaboration with Coventry University, UK)**.  
-I have a strong interest in **Computer Networking, IT Infrastructure, and Cybersecurity**.  
-I enjoy building enterprise network topologies, working with routers, switches, firewalls,  
-and learning how secure networks operate.
+╔══════════════════════════════════════════════════════════╗
+║  🔴 TARGET ACQUIRED: Secure. Defend. Penetrate. Repeat.   ║
+╚══════════════════════════════════════════════════════════╝
 
----
+╭─🛡️ EXPERTISE───────────────────────────────────────────╮
+│  • Network Intrusion Detection & Prevention               │
+│  • Enterprise Network Architecture (Three-Tier)           │
+│  • Advanced Routing: OSPF (Multi-Area) | EIGRP | BGP       │
+│  • Firewall Engineering – Cisco ASA / Linux IPTables      │
+│  • Blue Team Operations & SOC Monitoring                  │
+│  • Secure Automation – Python (Cryptography & Recon)      │
+│  • Linux Hardening | Secure Network Design | DMZ Mastery   │
+│  • Ethical Hacking Fundamentals & Web Enumeration         │
+╰───────────────────────────────────────────────────────────╯
 
-## 🛠️ Skills & Technologies
+╭─⚙️  ARSENAL────────────────────────────────────────────╮
+│  Cisco Packet Tracer │ GNS3 │ Wireshark │ Nmap            │
+│  Python (Cryptography, Scapy, Requests)                  │
+│  Kali │ Ubuntu │ Git │ VS Code │ Burp Suite (learning)   │
+╰───────────────────────────────────────────────────────────╯
 
-### **Networking**
-- VLANs, STP, PPP, DHCP, NAT  
-- Port Security  
-- Subnetting & VLSM  
-- Cisco Routing & Switching
+╭─🔥 FEATURED EXPLOITS (a.k.a Projects)────────────────────╮
+│  > Three-Tier Enterprise Fortress                         │
+│    ├─ VLAN Segmentation + Inter-VLAN Routing              │
+│    ├─ OSPF + iBGP Peering                                 │
+│    ├─ ACLs, Zone-Based Policy Firewall                    │
+│    └─ High Availability & Redundancy                      │
+│                                                           │
+│  > Cisco ASA Killswitch Configuration                     │
+│    ├─ NAT/PAT │ Security Levels │ DMZ │ MPF              │
+│                                                           │
+│  > PhantomCipher – AES-256 File Encryption Tool (Python)  │
+│  > ShadowEnum – Custom Recon & Web Enumeration Tool       │
+╰───────────────────────────────────────────────────────────╯
 
-### **Routing**
-- OSPF  
-- EIGRP  
-- Basics of BGP  
+╭─🎯 MISSION OBJECTIVE────────────────────────────────────╮
+│  Become a Network Security Engineer | Cybersecurity      │
+│  Researcher specialized in:                               │
+│    • Secure Network Architecture                          │
+│    • Threat Hunting & Defense Strategies                  │
+│    • Firewall / IDS/IPS Administration                    │
+│    • Vulnerability Research & Mitigation                 │
+╰───────────────────────────────────────────────────────────╯
 
-### **Firewall & Security**
-- Cisco ASA Firewall  
-- ACLs  
-- VPN (Basics)  
-- Basic Blue Team concepts  
-- Linux (Basics & Hardening)
+╭─📡 CONNECT / RECON──────────────────────────────────────╮
+│  > LinkedIn  : https://www.linkedin.com/in/pranjal-p-49ab59293/ │
+│  > GitHub    : https://github.com/pranjalpanta              │
+│  > Email     : pranjalpantalazarus2@gmail.com               │
+│  > Medium    : https://medium.com/@pranjalpanta2.0          │
+╰───────────────────────────────────────────────────────────╯
 
-### **Tools**
-- Cisco Packet Tracer  
-- GNS3  
-- Wireshark  
-- Python (basic scripting)  
-- Git & GitHub  
-- Visual Studio Code  
+┌─[ Status: ONLINE ]─[ Access: Granted ]───────────────────┐
+│  Ready for collaboration, bug bounties, CTFs,            │
+│  research, or just some terminal talk.                    │
+│  Ping me. Let’s secure something… or break it ethically. │
+└──────────────────────────────────────────────────────────┘
 
----
-
-## 📂 Featured Projects
-
-### **🔹 Three-Tier Enterprise Network Design**
-Designed an enterprise-style topology using  
-**VLANs, OSPF, ACLs, DHCP, NTP, and Syslog**.
-
-### **🔹 Cisco ASA Firewall Configuration**
-Configured security levels, NAT, ACLs, DMZ, and basic logging.
-
-### **🔹 Secure File Tool (Python)**
-Python tool for encrypting and decrypting files.
-
-### **🔹 Web Enumeration Tool (Python)**
-Simple tool for port scanning, header grabbing, and basic web recon.
-
----
-
-## 🎯 Career Goal
-To become a **Network Engineer and Security Specialist**  
-with strong knowledge of routing, switching, and cybersecurity defense.
-
----
-
-## 📫 Contact  
-- **LinkedIn:** YOUR_LINKEDIN_URL  
-- **Email:** YOUR_EMAIL  
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-
----
-
-Thanks for visiting my profile!
+# whois pranjalpanta
+→ Ethical Hacker | Network Defender | Automation Scripter | Future Red/Blue Teamer
 
 
 
