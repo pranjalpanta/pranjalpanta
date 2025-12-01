@@ -6,49 +6,30 @@
 
 ---
 
-# 👋 Hi, I'm <span style="color:#00FF41;">Pranjal Panta</span>  
-### 🟩 Networking & Cybersecurity Researcher
+# Hi, I'm Pranjal Panta 👋  
+### Networking & Cybersecurity Researcher 
 
-💡 Passionate about **enterprise networks, firewalls, routing, switching, and security**
-
-🔧 Currently learning: **CCNA, ASA Firewall, VLANs, RIP, OSPF, EIGRP, BGP, IS-IS, NAT, ACLs** 
-
-🎯 Goal: Become a **Network Engineer & Security Specialist**
+💡 Passionate about enterprise networks, firewalls, routing, switching, and security.  
+🔧 Currently learning: CCNA, ASA Firewall, VLANs, OSPF, EIGRP, NAT, ACLs  
+🎯 Goal: Become a Network Engineer & Security Specialist  
 
 ---
 
-## 🟩 Skills & Tools  
-
-### 🔹 Networking
-VLANs • STP • PPP • DHCP • NAT • Port Security
-
-### 🔹 Routing
-OSPF • EIGRP • BGP 
-
-### 🔹 Firewalls
-Cisco ASA • ACLs • VPN
-
-### 🔹 Cybersecurity
-Basic Blue Team • Linux Fundementals
-
-### 🔹 Tools
-Cisco Packet Tracer • GNS3 • Wireshark
+### 🛠 Skills & Tools  
+- *Networking:* VLANs, STP, SVI, DHCP, NAT, Port Security  
+- *Routing:* RIP, OSPF, EIGRP, BGP, IS-IS  
+- *Firewalls:* Cisco ASA, ACLs, VPN  
+- *Cybersecurity:**Network Foriences, Linux Fundamentals, Operating System, Pratical Penstesting, Basic Web Application Security**
+- *Tools:* Cisco Packet Tracer, GNS3, Wireshark
 
 ---
 
-## 🟩 Featured Projects  
+### 📂 Featured Projects  
+🔹 *Three-Tier Enterprise Network Design*  
+🔹 *Cisco ASA Firewall Configuration*  
+🔹 *Secure File Tool (Python)*  
+🔹 *WEB EMUMERATION TOOL (Python)
 
-### 🔹 Three-Tier Enterprise Network Design  
-Enterprise-level design using VLANs, OSPF, ACLs, DHCP,  and network segmentation.
-
-### 🔹 Cisco ASA Firewall Configuration  
-Configured ASA with NAT, ACLs, DMZ logic, and basic monitoring.
-
-### 🔹 Secure File Tool (Python)  
-Python tool for encrypting and decrypting files using secure methods.
-
-### 🔹 Web Enumeration Tool (Python)  
-Lightweight tool for port scanning, header grabbing, and subdomain enumeration.
 
 ### 🔵 Connect With Me
 - **LinkedIn:** https://www.linkedin.com/in/pranjal-p-49ab59293/  
