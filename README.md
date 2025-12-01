@@ -4,6 +4,7 @@
 </p>
 
 
+
 ---
 
 # Hi, I'm Pranjal Panta 👋
@@ -13,6 +14,7 @@
 💡 **Dedicated to enterprise networking and security engineering** 
 🔧 **Currently learning: CCNA, ASA Firewall, Routing and Switching**
 🎯 **Goal: Become a Network Engineer & Security Specialist** 
+
 
 ---
 
@@ -25,11 +27,14 @@
 
 ---
 
+
 ### 📂 Featured Projects  
 🔹 **Three-Tier Enterprise Network Design** 
 🔹 **Cisco ASA Firewall Configuration**  
 🔹 **Secure File Tool (Python)**  
 🔹 **WEB EMUMERATION TOOL (Python)**
+
+---
 
 
 ### 🔵 Connect With Me
@@ -37,9 +42,9 @@
 - **Email: pranjalpantalazarus2@gmail.com**
 - **GitHub: https://github.com/pranjalpanta** 
 - **Medium: https://medium.com/@pranjalpanta2.0**
+  
 
 ---
-
 
 
 <p align="center">
