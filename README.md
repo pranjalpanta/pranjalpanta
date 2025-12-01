@@ -1,87 +1,111 @@
-<!-- Banner -->
+
+
+<!-- Neon Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&color=00FFEA&width=700&lines=Aaditya+K+C+|+Cybersecurity+%26+Networking+Enthusiast;BSc+International+Information+Systems+Student+@+TH+Augsburg;Always+Learning+|+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Aaditya+K+C;Cybersecurity+%7C+Networking+%7C+GRC+Enthusiast;BSc+International+Information+Systems+%40+TH+Augsburg;Always+Learning+Always+Building" />
 </p>
 
----
-
-## 🧑‍💻 About Me  
-
-Hi, I'm **Aaditya**, a cybersecurity & networking enthusiast originally from **Nepal**, currently studying **International Information Systems (IIS)** in Germany.  
-I love building secure networks, firewall setups, packet tracer labs, and security automation tools.
-
-- 🌐 Interested in **Networking, Firewalls, SOC, GRC, Linux & Cybersecurity**
-- 🎓 Background: BSc Cybersecurity (Softwarica) + IIS @ TH Augsburg  
-- 🔥 Passion: Enterprise Network Design, ASA Firewall, ISO 27001, Python Security Tools  
-- 📚 Learning: OOP in Java, Packet Tracer, R Programming, Linux, Cryptography  
-- 🚀 Building: Forest-fire ML project, ASA firewall project, three-tier network  
-- 💌 Contact me: **kc.aaditya199@outlook.com**
+<!-- Hacker Style Divider -->
+<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="600"></p>
 
 ---
 
-## ⚒️ Skills & Technologies
+# 🧑‍💻 **About Me**
+<p align="center">
+  <img src="https://i.imgur.com/8fK4h6j.gif" width="250"/>
+</p>
 
-### 🚀 Programming
-![My Skills](https://skillicons.dev/icons?i=python,java,javascript,typescript,r,html,css)
+Hi, I'm **Aaditya**, a passionate **Cybersecurity & Network Engineering** enthusiast from **Nepal**,  
+currently pursuing **International Information Systems** in Germany 🇩🇪.
 
-### 🌐 Networking & Security
-![Networking](https://skillicons.dev/icons?i=linux,ubuntu,redhat)
-![Tools](https://skillicons.dev/icons?i=git,github,docker)
+⚡ I specialize in building secure networks, firewalls, packet tracer designs  
+🛡️ I enjoy breaking & securing systems (ethical way 😄)  
+📡 Networking is my backbone — cybersecurity is my passion  
+
+### ⭐ What I Do
+- 🔐 Cybersecurity research & labs  
+- 🌐 Enterprise network design  
+- 🧱 Cisco ASA, VLANs, OSPF, ACLs  
+- 📊 Python-based security tools  
+- 🧠 Learning: Java OOP, R, Linux, SOC operations  
+
+### 📩 Contact  
+**Email:** kc.aaditya199@outlook.com  
+
+---
+
+# ⚡ **Tech Stack**
+
+### 🔥 Languages  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,r,html,css&theme=dark" height="45"/>
+</p>
+
+### 🔥 Cybersecurity & Networking  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,redhat,docker,git,github&theme=dark" height="45"/>
+</p>
 
 - Cisco Packet Tracer  
-- VLAN, OSPF, ACL, NTP  
-- Cisco ASA Firewall (NAT, ACL, Logging)  
+- ASA Firewall (NAT, ACL, Logging)  
 - Wireshark, Nmap, Burp Suite  
-- Subnetting, VLSM, IP Addressing  
+- VLAN, OSPF, NTP, DHCP, Subnetting  
+- SOC basics, ISO 27001, GRC fundamentals  
 
 ---
 
-## 📌 Featured Projects
+# 🚀 **Featured Projects**
 
-### 🔺 **Three-Tier Enterprise Network Design**
-Cisco Packet Tracer project with:
-- VLANs  
-- OSPF  
-- ACLs  
-- NTP  
-- Redundancy  
-- Firewall integration  
-
-### 🔥 **Cisco ASA Firewall Configuration**
-Skills demonstrated:
-- Static NAT  
-- Dynamic NAT  
-- ACL  
-- Logging  
-- DMZ  
-- Basic firewall hardening  
-
-### 🌲 **Forest Fire Prediction (Hackathon Project)**
-AI model using multiple datasets for early wildfire detection in Uttarakhand.
+## 🔺 **Three-Tier Enterprise Network Architecture**
+📌 Cisco packet tracer  
+✔ VLAN  
+✔ OSPF  
+✔ ACLs  
+✔ NTP  
+✔ ASA firewall integration  
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 **Cisco ASA Firewall Project**
+✔ Static & dynamic NAT  
+✔ Security levels  
+✔ ACLs  
+✔ DMZ  
+✔ Basic firewall hardening  
+
+---
+
+## 🌲 **Forest-Fire Prediction (AI Hackathon)**
+- Used combined datasets  
+- ML-based risk prediction  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AadityaKC&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AadityaKC&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AadityaKC&theme=tokyonight" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AadityaKC&show_icons=true&theme=tokyonight" height="200"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+# 🌐 **Connect With Me**
 
 <p align="center">
-  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  <a href="mailto:kc.aaditya199@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
-  <a href="https://github.com/AadityaKC"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
+  <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" height="55"></a>
+  <a href="mailto:kc.aaditya199@outlook.com"><img src="https://skillicons.dev/icons?i=gmail" height="55"></a>
+  <a href="https://github.com/AadityaKC"><img src="https://skillicons.dev/icons?i=github" height="55"></a>
 </p>
 
 ---
 
+<p align="center"><img src="https://i.imgur.com/dBaSKWF.gif" width="500"></p>
 <p align="center">💙 Thank you for visiting my profile!</p>
+
 
 
 ---
