@@ -8,8 +8,10 @@
 # 👋 Hi, I'm <span style="color:#00FF41;">Pranjal Panta</span>  
 ### 🟩 Networking & Cybersecurity Researcher
 
-💡 Passionate about **enterprise networks, firewalls, routing, switching, and security**.  
+💡 Passionate about **enterprise networks, firewalls, routing, switching, and security**
+
 🔧 Currently learning: **CCNA, ASA Firewall, VLANs, RIP, OSPF, EIGRP, BGP, IS-IS, NAT, ACLs** 
+
 🎯 Goal: Become a **Network Engineer & Security Specialist**
 
 ---
