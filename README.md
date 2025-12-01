@@ -6,8 +6,8 @@
 
 ---
 
-# Hi, I'm Pranjal Panta 👋**
-### Networking & Cybersecurity Researcher**
+# Hi, I'm Pranjal Panta 👋
+### Networking & Cybersecurity Researcher
 
 💡 **Dedicated to enterprise networking and security engineering** 
 🔧 **Currently learning: CCNA, ASA Firewall, Routing and Switching**
