@@ -47,6 +47,12 @@ Python tool for encrypting and decrypting files using secure methods.
 ### 🔹 Web Enumeration Tool (Python)  
 Lightweight tool for port scanning, header grabbing, and subdomain enumeration.
 
+### 🔵 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/pranjal-p-49ab59293/  
+- **Email:** pranjalpantalazarus2@gmail.com  
+- **GitHub:** https://github.com/pranjalpanta  
+- **Medium:** https://medium.com/@pranjalpanta2.0
+
 ---
 
 <p align="center">
