@@ -1,120 +1,127 @@
-<!-- PROFESSIONAL CYBERSECURITY HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#2ECC71">Pranjal Panta</span></h1>
-<h3 align="center">Cybersecurity & Networking Researcher | Network Engineering Enthusiast</h3>
+<!-- CISCO THEME HEADER -->
+<h1 align="center" style="color:#0A66C2;">🔵 Pranjal Panta</h1>
+<h3 align="center">Cybersecurity & Networking Researcher </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Softwarica_College-Coventry_University-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Field-Cybersecurity%20%7C%20Networking-2ECC71?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Networking_%26_Cybersecurity-0A66C2?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tech-Cisco%20Networking-blue?style=for-the-badge&logo=cisco&logoColor=white">
 </p>
 
 ---
 
-## 🧭 About Me  
-I’m a student from **Nepal**, currently studying at **Softwarica College (affiliated with Coventry University, UK)**.  
-My focus is on **Computer Networking, Cyber Defense, and IT Infrastructure**.
+## 🔵 About Me  
+I am a student from **Nepal**, currently studying at **Softwarica College (affiliated with Coventry University, UK)**.  
+My academic path is focused on **Computer Networking, Cyber Defense, and Enterprise IT Infrastructure**.
 
-I love designing secure networks, exploring routing & switching protocols,  
-and learning how enterprise systems maintain scalability, availability, and protection.
+I enjoy designing scalable network topologies, studying routing & switching mechanisms,  
+and researching how secure, enterprise-grade infrastructures are built and maintained.
 
 ---
 
-## 🛡️ Areas of Interest  
-- Network Security  
+## 🔵 Areas of Interest  
+- Enterprise Network Design  
 - Routing & Switching  
 - Firewall Configuration  
-- Secure Network Design  
+- Network Security  
+- SOC & Defensive Operations  
+- Secure Configurations  
 - Linux Hardening  
-- Python Security Scripting  
-- Pen-Test Fundamentals  
+- Python for Security Automation  
 
 ---
 
-## ⚙️ Skills & Technologies  
+## 🔵 Skills & Technologies  
 
-### 🔹 Networking  
-- VLANs, STP, DHCP, NAT, Port Security  
-- VPN (Basics), ACLs  
-- Subnetting, VLSM  
-- Enterprise Network Design  
+### **🌐 Networking**
+- VLANs, STP, Port Security  
+- DHCP, NAT, VPN (Basics)  
+- Subnetting & VLSM  
+- Cisco IOS Configuration  
+- Cisco Enterprise Network Designs  
 
-### 🔹 Routing  
+### **🚦 Routing Protocols**
 - **OSPF**  
 - **EIGRP**  
 - **RIP**  
 - **BGP**  
 
-### 🔹 Security & Firewall  
+### **🔰 Security & Firewalls**
 - Cisco ASA Firewall  
-- ACLs, NAT, DMZ  
-- SOC Monitoring (Basic)  
-- Linux Hardening  
-- Secure Configuration Standards  
+- ACLs (Standard/Extended)  
+- NAT (Static/Dynamic/PAT)  
+- DMZ Architecture  
+- Network Hardening  
+- Basic SOC Monitoring  
 
-### 🔹 Tools  
+### **🧰 Tools & Platforms**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cisco,linux,kali,python,wireshark,gnubash,git,github,vscode&theme=dark" height="45" />
+  <img src="https://skillicons.dev/icons?i=cisco,linux,kali,python,wireshark,git,github,vscode&theme=light" height="45"/>
 </p>
 
 - Cisco Packet Tracer  
 - GNS3  
 - Wireshark  
-- Python (automation scripts)  
+- Python (security scripting)  
 - Git & GitHub  
 - VS Code  
-- Linux (Ubuntu / Kali)  
+- Linux (Ubuntu/Kali)  
 
 ---
 
-## 📂 Featured Projects  
+## 🔵 Featured Projects  
 
-### 🔹 Three-Tier Enterprise Network Design  
-A complete enterprise topology with:  
+### **🔹 Enterprise Three-Tier Network Design**
+Designed a full enterprise-level network with:  
 - VLAN segmentation  
-- OSPF + BGP  
-- ACL-based filtering  
-- DHCP, NTP, Syslog  
-- Scalable & multi-layered architecture  
+- OSPF + BGP routing  
+- ACL-based security  
+- DHCP, NTP, Syslog integration  
+- Core, Distribution, Access model  
 
 ---
 
-### 🔹 Cisco ASA Firewall Configuration  
-Configured Cisco ASA featuring:  
-- Static & Dynamic NAT  
-- DMZ configuration  
-- Security levels  
-- ACLs for inbound/outbound control  
-- Basic firewall logging  
+### **🔹 Cisco ASA Firewall Deployment**
+Configured Cisco ASA for:  
+- NAT (Static, Dynamic, PAT)  
+- DMZ Network  
+- ACLs for traffic control  
+- Logging & basic monitoring  
+- Security-level management  
 
 ---
 
-### 🔹 Secure File Encryption Tool (Python)  
-- AES-based encryption system  
-- Password-derived keys  
-- Secure file encryption & decryption  
+### **🔹 Secure File Encryption Tool (Python)**
+A Python tool that:  
+- Encrypts files using strong cryptography  
+- Generates secure keys  
+- Provides safe encryption & decryption workflow  
 
 ---
 
-### 🔹 Web Enumeration Tool (Python)  
+### **🔹 Web Enumeration Tool (Python)**
+A lightweight recon project supporting:  
 - Port scanning  
-- Header grabbing  
-- Subdomain lookup  
-- Lightweight reconnaissance  
+- HTTP header grabbing  
+- Subdomain enumeration  
+- Basic recon techniques  
 
 ---
 
-## 🎯 Career Objective  
-To become a **Network Engineer / Cybersecurity Researcher**, specializing in:  
-- Network & security architecture  
-- Firewall administration  
+## 🔵 Career Objective  
+To become a **Network Security Engineer / Researcher**, with expertise in:  
+- Enterprise network architecture  
+- Routing & switching operations  
+- Firewall management  
 - SOC operations  
-- Secure infrastructure design  
-- Vulnerability identification & defense  
+- Vulnerability audit & risk mitigation  
 
-I aim to help build **secure, stable, and scalable network systems**.
+My mission is to help build **secure, resilient, and scalable network infrastructures**.
 
 ---
 
-## 📫 Connect With Me  
+## 🔵 Connect With Me  
+
 - **LinkedIn:** https://www.linkedin.com/in/pranjal-p-49ab59293/  
 - **Email:** pranjalpantalazarus2@gmail.com  
 - **GitHub:** https://github.com/pranjalpanta  
@@ -122,7 +129,8 @@ I aim to help build **secure, stable, and scalable network systems**.
 
 ---
 
-<h3 align="center">✨ Thank you for visiting my profile!</h3>
+<h3 align="center">Thank you for visiting my profile! 🌐</h3>
+
 
 
 
