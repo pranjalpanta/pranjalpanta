@@ -64,25 +64,77 @@
 ---
 
 
-<!-- Top Divider (Multi-color Gradient) -->
-<div style="height: 5px; width: 80%; background: linear-gradient(90deg, #FF00FF 0%, #00FFFF 25%, #00FF00 50%, #FFFF00 75%, #FF0000 100%); margin: 0 auto 30px auto; border-radius: 3px;"></div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pulsing Neon Text Effect</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom CSS for the Neon Pulse Effect */
+        @keyframes neon-pulse {
+            0% { 
+                /* Starting smaller glow */
+                text-shadow: 
+                    0 0 4px #00FF90, 
+                    0 0 8px rgba(0, 255, 144, 0.5);
+                opacity: 0.9;
+            }
+            50% { 
+                /* Maximum glow (Breathing out) */
+                text-shadow: 
+                    0 0 8px #00FF90, 
+                    0 0 16px rgba(0, 255, 144, 0.8), 
+                    0 0 30px #00FF90; 
+                opacity: 1;
+            }
+            100% { 
+                /* Back to smaller glow (Breathing in) */
+                text-shadow: 
+                    0 0 4px #00FF90, 
+                    0 0 8px rgba(0, 255, 144, 0.5); 
+                opacity: 0.9;
+            }
+        }
 
-<p style="
-    color: #00FF90; /* Neon Bright Green */
-    font-family: 'Courier New', monospace; /* Console/Code feel */
-    font-weight: bold;
-    font-size: 2.2em; /* Large size for visibility */
-    text-align: center;
-    margin: 0;
-    /* Text Shadow for a classic neon/console glow effect */
-    text-shadow: 0 0 4px #00FF90, 0 0 8px rgba(0, 255, 144, 0.5);
-">
-    Thanks for visiting my profile, see you next time!
-</p>
+        .pulsing-text {
+            /* Apply the animation: 2 seconds duration, infinite loop, alternates direction */
+            animation: neon-pulse 2s infinite alternate; 
+        }
 
-<!-- Bottom Divider -->
-<div style="height: 5px; width: 80%; background: linear-gradient(90deg, #FF0000 0%, #FFFF00 25%, #00FF00 50%, #00FFFF 75%, #FF00FF 100%); margin: 30px auto 0 auto; border-radius: 3px;"></div>
+        /* Gradient Divider Styling */
+        .gradient-divider {
+            height: 5px;
+            width: 80%;
+            background: linear-gradient(90deg, #FF00FF 0%, #00FFFF 25%, #00FF00 50%, #FFFF00 75%, #FF0000 100%);
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body class="bg-gray-900 flex items-center justify-center min-h-screen p-4 font-['Inter']">
 
+    <!-- Outer Container (Mimics the GitHub README card) -->
+    <div class="w-full max-w-4xl bg-black rounded-xl p-10 shadow-2xl border border-[#00FF90] border-opacity-30">
+        <div class="flex flex-col items-center text-center">
+
+            <!-- Top Divider (Reversed gradient for variety) -->
+            <div class="gradient-divider transform rotate-180 mb-8"></div>
+
+            <!-- The Pulsing Neon Text -->
+            <p class="pulsing-text font-mono font-extrabold text-4xl sm:text-5xl lg:text-6xl" 
+               style="color: #00FF90; margin: 0;">
+                Thanks for visiting my profile, see you next time!
+            </p>
+
+            <!-- Bottom Divider -->
+            <div class="gradient-divider mt-8"></div>
+        </div>
+    </div>
+
+</body>
+</html>
 
 
 
