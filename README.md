@@ -4,14 +4,14 @@
 
 ---
 
-# 👋 Hi, I'm Pranjal Panta
+#  Hi, I'm Pranjal Panta
 
-## 💡 Networking & Cybersecurity Researcher
+## Networking & Cybersecurity Researcher
 
-A passionate professional dedicated to **enterprise networking** and **security engineering**. I actively design, implement, and secure robust network infrastructures, aiming to combine technical expertise with innovative problem-solving.
+**A Passionate Professional dedicated to Enterprise Networking** and **Security Engineering**. 
 
-* **Current Focus:** CCNA, Cisco ASA Firewall, Advanced Routing & Switching  
-* **Career Goal:** To excel as a **Network Engineer & Security Specialist** tackling complex networking & security challenges  
+* **Current Focus: CCNA, Cisco ASA Firewall, Advanced Routing & Switching** 
+* **Career Goal:To excel as a **Network Engineer & Security Specialist** tackling complex networking & security challenges**
 
 ---
 
@@ -19,22 +19,23 @@ A passionate professional dedicated to **enterprise networking** and **security 
 
 **Networking & Routing**
 
-- 🌐 Switching Protocols: VLANs, STP, SVI, DHCPsnooping, Port Security, Eherchannel,  
-- ↔️ Routing Protocols: RIP, OSPF, EIGRP, BGP, IS-IS  
+- 🌐 **Switching Protocols: VLANs, STP, SVI, DHCPsnooping, Port Security, Eherchannel, MPLS,**
+- ↔️ **Routing Protocols: RIP, OSPF, EIGRP, BGP, IS-IS,**
+- ↔️ **Redundancy Protocols: HSRP, VRRP, GLBP,**
 
 **Security & Firewalls**
 
-- 🛡️ Cisco ASA, ACLs, VPN, NATs,  
-- 💻 OS Security, Pen-testing, Web App Security, Network Foriences, Linux Fundamentals,  
+- 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
+- 💻 **OS Security, Pen-testing, Web App Security, Network Foriences, Linux Fundamentals,**  
 
 **Tools & Simulation**
 
-- 🔧 Cisco Packet Tracer, GNS3, Wireshark, Python, FTK Imager, Autopsy, Hack the box, PortSwigger, 
+- 🔧 **Cisco Packet Tracer, GNS3, Wireshark, Python, FTK Imager, Autopsy, Hack the box, PortSwigger,**
 
 <p align="center">
   <!-- Existing badges (optional to keep or remove) -->
   <img src="https://img.shields.io/badge/Networking-VLAN%20%7C%20STP%20%7C%20DHCP-00ff41?style=for-the-badge&logo=networking&logoColor=white" />
-  <img src="https://img.shields.io/badge/Routing-RIP%20%7C%20OSPF%20%7C%20EIGRP-00ccff?style=for-the-badge&logo=router&logoColor=white" />
+ <img src="https://img.shields.io/badge/Routing-RIP%20%7C%20OSPF%20%7C%20EIGRP-00ccff?style=for-the-badge&logo=router&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Cisco%20ASA%20%7C%20ACLs-ff0066?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20GNS3-ff9900?style=for-the-badge&logo=tools&logoColor=white" />
 
@@ -51,10 +52,10 @@ A passionate professional dedicated to **enterprise networking** and **security 
 
 | Project | Description |
 | :--- | :--- |
-| 🔹 **Three-Tier Enterprise Network Design** | Hands-on project demonstrating scalable & secure network architecture |
-| 🔹 **Cisco ASA Firewall Configuration** | Implemented security policies and VPN tunnels |
-| 🔹 **Secure File Encryption Tool (Python)** | Encrypt & decrypt files securely, focused on best practices |
-| 🔹 **Web Enumeration Tool (Python)** | Gather important web app data for security testing |
+| 🔹 **Three-Tier Enterprise Network Design** | **Hands-on project demonstrating scalable & secure network architecture** |
+| 🔹 **Cisco ASA Firewall Configuration** | **Implemented security policies and VPN tunnels**|
+| 🔹 **Secure File Encryption Tool (Python)** | **Encrypt & decrypt files securely, focused on best practices** |
+| 🔹 **Web Enumeration Tool (Python)** | **Gather important web app data for security testing** |
 
 ---
 
