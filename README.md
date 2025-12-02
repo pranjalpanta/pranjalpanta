@@ -11,7 +11,7 @@
 **A Passionate Professional dedicated to Enterprise Networking** and **Security Engineering**. 
 
 * **Current Focus: CCNA, Cisco ASA Firewall, Advanced Routing & Switching** 
-* **Career Goal:To excel as a **Network Engineer & Security Specialist** tackling complex networking & security challenges**
+* **Career Goal: To excel as a Network Engineer & Security Specialist** 
 
 ---
 
@@ -78,9 +78,7 @@
 
 ---
 
-<p align="center">
-  <b style="color:#00FF41;">⚡ Thank you for visiting! Let's connect and build secure Networks together ⚡</b>
-</p>
+<p align="center"> <b style="color:#00FF41;">⚡ Thank you for visiting! Let's connect and build secure Networks together ⚡</b> </p>
 
 
 
