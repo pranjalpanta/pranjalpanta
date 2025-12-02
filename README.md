@@ -19,17 +19,17 @@ A passionate professional dedicated to **enterprise networking** and **security 
 
 **Networking & Routing**
 
-- 🌐 VLANs, STP, SVI, DHCP, NAT, Port Security  
+- 🌐 Switching Protocols: VLANs, STP, SVI, DHCPsnooping, Port Security, Eherchannel,  
 - ↔️ Routing Protocols: RIP, OSPF, EIGRP, BGP, IS-IS  
 
 **Security & Firewalls**
 
-- 🛡️ Cisco ASA, ACLs, VPN, Network Forensics, Linux Fundamentals  
-- 💻 OS Security, Pen-testing, Web App Security  
+- 🛡️ Cisco ASA, ACLs, VPN, NATs,  
+- 💻 OS Security, Pen-testing, Web App Security, Network Foriences, Linux Fundamentals,  
 
 **Tools & Simulation**
 
-- 🔧 Cisco Packet Tracer, GNS3, Wireshark, Python  
+- 🔧 Cisco Packet Tracer, GNS3, Wireshark, Python, FTK Imager, Autopsy, 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Networking-VLAN%20%7C%20STP%20%7C%20DHCP-00ff41?style=for-the-badge&logo=networking&logoColor=white" />
@@ -71,7 +71,7 @@ A passionate professional dedicated to **enterprise networking** and **security 
 ---
 
 <p align="center">
-  <b style="color:#00FF41;">⚡ Thank you for visiting! Let's connect and build secure networks together ⚡</b>
+  <b style="color:#00FF41;">⚡ Thank you for visiting! Let's connect and build secure Networks together ⚡</b>
 </p>
 
 
