@@ -29,7 +29,7 @@ A passionate professional dedicated to **enterprise networking** and **security 
 
 **Tools & Simulation**
 
-- 🔧 Cisco Packet Tracer, GNS3, Wireshark, Python, FTK Imager, Autopsy, 
+- 🔧 Cisco Packet Tracer, GNS3, Wireshark, Python, FTK Imager, Autopsy, Hack the box, PortSwigger, 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Networking-VLAN%20%7C%20STP%20%7C%20DHCP-00ff41?style=for-the-badge&logo=networking&logoColor=white" />
