@@ -1,4 +1,4 @@
-!-- HACKER HEADER -->
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=𝗣𝗿𝗼𝗳𝗶𝗹𝗲+𝗟𝗼𝗮𝗱𝗲𝗱...">
 </p>
@@ -64,9 +64,27 @@
 ---
 
 
-<p align="center">
-  <b style="color:#00FF41;"></b> Profile Loaded Successfully.
+<!-- Top Divider (Multi-color Gradient) -->
+<div style="height: 5px; width: 80%; background: linear-gradient(90deg, #FF00FF 0%, #00FFFF 25%, #00FF00 50%, #FFFF00 75%, #FF0000 100%); margin: 0 auto 30px auto; border-radius: 3px;"></div>
+
+<p style="
+    color: #00FF90; /* Neon Bright Green */
+    font-family: 'Courier New', monospace; /* Console/Code feel */
+    font-weight: bold;
+    font-size: 2.2em; /* Large size for visibility */
+    text-align: center;
+    margin: 0;
+    /* Text Shadow for a classic neon/console glow effect */
+    text-shadow: 0 0 4px #00FF90, 0 0 8px rgba(0, 255, 144, 0.5);
+">
+    Thanks for visiting my profile, see you next time!
 </p>
+
+<!-- Bottom Divider -->
+<div style="height: 5px; width: 80%; background: linear-gradient(90deg, #FF0000 0%, #FFFF00 25%, #00FF00 50%, #00FFFF 75%, #FF00FF 100%); margin: 30px auto 0 auto; border-radius: 3px;"></div>
+
+
+
 
 
 
