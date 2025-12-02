@@ -32,11 +32,18 @@ A passionate professional dedicated to **enterprise networking** and **security 
 - 🔧 Cisco Packet Tracer, GNS3, Wireshark, Python, FTK Imager, Autopsy, Hack the box, PortSwigger, 
 
 <p align="center">
+  <!-- Existing badges (optional to keep or remove) -->
   <img src="https://img.shields.io/badge/Networking-VLAN%20%7C%20STP%20%7C%20DHCP-00ff41?style=for-the-badge&logo=networking&logoColor=white" />
   <img src="https://img.shields.io/badge/Routing-RIP%20%7C%20OSPF%20%7C%20EIGRP-00ccff?style=for-the-badge&logo=router&logoColor=white" />
   <img src="https://img.shields.io/badge/Security-Cisco%20ASA%20%7C%20ACLs-ff0066?style=for-the-badge&logo=security&logoColor=white" />
   <img src="https://img.shields.io/badge/Tools-Wireshark%20%7C%20GNS3-ff9900?style=for-the-badge&logo=tools&logoColor=white" />
+
+  <!-- New Badges -->
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-Web%20%7C%20Linux%20Machines-9fef00?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-f06529?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
+
+
 
 ---
 
