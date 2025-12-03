@@ -26,7 +26,7 @@
 **Security & Firewalls**
 
 - 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
-- 💻 **OS Security, Network Foriences, Linux Fundamentals, Basic Web Security, **  
+- 💻 **OS Security, Network Foriences, Linux Fundamentals, Basic Web Security,**  
 
 **Tools & Simulation**
 
