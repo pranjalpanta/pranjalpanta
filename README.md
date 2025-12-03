@@ -26,11 +26,11 @@
 **Security & Firewalls**
 
 - 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
-- 💻 **OS Security, Network Foriences, Linux Fundamentals,**  
+- 💻 **OS Security, Network Foriences, Linux Fundamentals, Basic Web Security, **  
 
 **Tools & Simulation**
 
-- 🔧 **Cisco Packet Tracer, GNS3, Wireshark, Python, FTK Imager, Autopsy, Hack the box, PortSwigger,**
+- 🔧 **Cisco Packet Tracer, GNS3, Wireshark, Pycharm, FTK Imager, Autopsy, Hack the box, PortSwigger,**
 
 <p align="center">
   <!-- Existing badges (optional to keep or remove) -->
