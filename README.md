@@ -30,7 +30,7 @@
 
 **Tools & Simulation**
 
-- 🔧 **Cisco Packet Tracer, GNS3, Wireshark, Pycharm, FTK Imager, Autopsy, Hack the box, PortSwigger,Kali Linux**
+- 🔧 **Cisco Packet Tracer, GNS3, Wireshark, Pycharm, FTK Imager, Autopsy, Hack the box, PortSwigger, Kali Linux**
 
 <p align="center">
   <!-- Existing badges (optional to keep or remove) -->
