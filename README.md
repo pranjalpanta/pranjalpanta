@@ -19,7 +19,7 @@
 
 **Networking & Routing**
 
-- 🌐 **Network Fundamental: OSI Model/TCP IP, Cables Types, Protocols, Sunetting, vlsm, supernetting,**
+- 🌐 **Network Fundamental: OSI Model/TCP IP, Cables Types, Protocols, Subetting, vlsm, supernetting,**
 - 🌐 **Switching Protocols: VLANs, STP, SVI, DHCPsnooping, Port Security, Eherchannel, MPLS,**
 - ↔️ **Routing Protocols: RIP, OSPF, EIGRP, BGP, IS-IS,**
 - ↔️ **Redundancy Protocols: HSRP, VRRP, GLBP,**
