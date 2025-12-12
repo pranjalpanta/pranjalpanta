@@ -23,7 +23,7 @@
 - 🌐 **Switching Protocols: VLANs, STP, SVI, DHCPsnooping, Port Security, Eherchannel, MPLS,**
 - ↔️ **Routing Protocols: RIP, OSPF, EIGRP, BGP, IS-IS,**
 - ↔️ **Redundancy Protocols: HSRP, VRRP, GLBP,**
-- - 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
+- 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
 
 **Security**
 
