@@ -23,11 +23,11 @@
 - 🌐 **Switching Protocols: VLANs, STP, SVI, DHCPsnooping, Port Security, Eherchannel, MPLS,**
 - ↔️ **Routing Protocols: RIP, OSPF, EIGRP, BGP, IS-IS,**
 - ↔️ **Redundancy Protocols: HSRP, VRRP, GLBP,**
+- - 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
 
-**Security & Firewalls**
+**Security**
 
-- 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
-- 💻 **OS Security, Network Foriences, Linux Fundamentals, Basic Web Security,**  
+- 💻 **Operating System, Network Foriences, Linux Fundamentals, Basic Web Security,**
 
 **Tools & Simulation**
 
