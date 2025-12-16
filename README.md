@@ -25,7 +25,7 @@
 - ↔️ **Redundancy Protocols: HSRP, VRRP, GLBP,**
 - 🛡️ **Cisco ASA, ACLs, VPN, NATs,**  
 
-**Security**
+**CyberSecurity and Ethical Hacking**
 
 - 💻 **Operating System, Network Foriences, Linux Fundamentals, Basic Web Security,**
 
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/Hack%20The%20Box-Web%20%7C%20Linux%20Machines-9fef00?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-f06529?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
-
 
 
 ---
