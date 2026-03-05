@@ -79,7 +79,7 @@
 
 ---
 
-<p align="center"> <b style="color:#00FF41;">⚡ Thank you for visiting! Let's connect and build secure Networks together ⚡</b> </p>
+<p align="center"> <b style="color:#00FF41;">⚡ Thank you for visiting!⚡</b> </p>
 
 
 
