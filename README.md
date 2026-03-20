@@ -6,7 +6,7 @@
 
 #  Hi, I'm Pranjal Panta
 
-## Networking & Cybersecurity Enthusiast
+## Aspiring Network Engineer and Cybersecurity Enthusiast
 
 **A Passionate Professional dedicated to Enterprise Networking** and **Security Engineering**. 
 
