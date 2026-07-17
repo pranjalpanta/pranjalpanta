@@ -45,18 +45,7 @@
   <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-f06529?style=for-the-badge&logo=burpsuite&logoColor=white" />
 </p>
 
-
 ---
-
-### 📂 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| 🔹 **Three-Tier Enterprise Network Design** | **Hands-on project demonstrating scalable & secure network architecture** |
-| 🔹 **Cisco ASA Firewall Configuration** | **Implemented security policies and VPN tunnels**|
-| 🔹 **Secure File Encryption Tool (Python)** | **Encrypt & decrypt files securely, focused on best practices** |
-| 🔹 **Web Enumeration Tool (Python)** | **Gather important web app data for security testing** |
-|🔹  **Enterprise Networking Mini Project (Cisco Packet Tracer)** | **Designed a multi-department enterprise network with VLANs, inter-VLAN routing, DHCP, and secure wireless using /26 subnetting** |
 
 ---
 
