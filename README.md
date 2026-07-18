@@ -47,8 +47,9 @@
 
 ---
 
-EDUCATION
-BSC (Hons) Ethical Hacking & Cyber Security
+**EDUCATION**
+
+**BSC (Hons) Ethical Hacking & Cyber Security**
 
 --------
 
