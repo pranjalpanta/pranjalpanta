@@ -47,7 +47,10 @@
 
 ---
 
----
+EDUCATION
+BSC (Hons) Ethical Hacking & Cyber Security
+
+--------
 
 ## 🌐 Connect With Me
 
