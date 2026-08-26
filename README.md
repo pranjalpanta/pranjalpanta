@@ -56,9 +56,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranjal-p-49ab59293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranjal%20Panta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="https://github.com/pranjalpanta">
     <img src="https://img.shields.io/badge/GitHub-pranjalpanta-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
