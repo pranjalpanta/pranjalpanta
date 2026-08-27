@@ -56,8 +56,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/pranjalpanta">
-    <img src="https://img.shields.io/badge/GitHub-pranjalpanta-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://medium.com/@pranjalpanta2.0">
     <img src="https://img.shields.io/badge/Medium-Blogs-000000?style=for-the-badge&logo=medium&logoColor=white" />
