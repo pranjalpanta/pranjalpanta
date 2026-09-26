@@ -8,7 +8,7 @@
 
 **A Passionate Professional dedicated to Enterprise Networking** and **Security Engineering**. 
 
-* **Current Focus: Palto Firewall, Advanced Routing & Switching** 
+* **Current Focus: Advanced Routing & Switching** 
 * **Career Goal: To excel as a Network Engineer & Security Specialist** 
 
 ---
